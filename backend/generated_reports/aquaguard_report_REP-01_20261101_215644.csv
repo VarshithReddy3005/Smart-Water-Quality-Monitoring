@@ -1,0 +1,9 @@
+# AquaGuard Water Quality Telemetry Export
+# Station,Report Test Station,Code: REP-01
+# Water Source,DRINKING_WATER
+# Period,2026-10-31T16:26:44.822189+00:00,to,2026-11-02T16:26:44.822189+00:00
+# Generated At,2026-11-01T16:26:44.822189+00:00
+# Notice: Simulated data is marked in 'is_simulated' column.
+
+timestamp,station_code,station_name,water_source,is_simulated,quality_status,wqi_score,wqi_category,ph,turbidity_ntu,temperature_c,dissolved_oxygen_mg_l,tds_ppm,electrical_conductivity_us_cm,orp_mv,salinity_ppt,water_level_m,flow_rate_l_min,ammonia_mg_l,nitrate_mg_l,chlorine_mg_l
+2026-11-01T16:26:44.822189,REP-01,Report Test Station,DRINKING_WATER,NO,NORMAL,,,7.2,0.8,18.5,8.5,180.0,270.0,,,,,,,
